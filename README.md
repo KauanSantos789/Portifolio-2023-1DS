@@ -1,2 +1,2 @@
 # Portifolio-2023-1DS
-[certificadosIBM.docx](https://github.com/KauanSantos789/Portifolio-2023-1DS/files/13198978/certificadosIBM.docx)
+![skillsbuild](https://github.com/KauanSantos789/Portifolio-2023-1DS/assets/125403442/bdf60ed3-99c5-4445-ad24-3efb2fc81a82)
