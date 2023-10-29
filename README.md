@@ -7,3 +7,5 @@ Wireframe Alta Fidelidade:
 
 Projeto Clínica Estética: 
 [ https://github.com/joaopedrosantanamotalol/Projeto-Clinica-Estetica.git ]
+
+Vídeo sobre o projeto: https://drive.google.com/file/d/1QUykZdUezhwozfi4niJbswagCOz2O_Qn/view?usp=drive_link 
